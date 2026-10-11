@@ -59,28 +59,6 @@ I'm a B.Tech Information Technology student passionate about building useful dig
 
 </div>
 
----
-
-## 🌟 Featured Project
-
-<div align="center">
-
-### 🤖 [OpenMate](https://github.com/mahadanisubh/Openmate)
-
-**Your business knowledge, accessible through AI.**
-
-An AI-powered business assistant designed to help businesses turn their knowledge into a conversational experience on their websites.
-
-</div>
-
-- 🧠 Exploring RAG and semantic search for knowledge-grounded answers.
-- 🔌 Designed around a simple website integration experience.
-- 🏢 Focused on practical business use cases and reusable architecture.
-
-**Explore more of my work:** [Portfolio](https://buildwithsubha.netlify.app) · [GitHub Repositories](https://github.com/mahadanisubh?tab=repositories)
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">

@@ -63,8 +63,6 @@ I'm a B.Tech Information Technology student passionate about building useful dig
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahadanisubh&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadanisubh&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most used programming languages"/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=mahadanisubh&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>

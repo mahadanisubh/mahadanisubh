@@ -26,7 +26,7 @@
 
 I'm a B.Tech Information Technology student passionate about building useful digital products, designing reliable backend systems, and exploring the intersection of software engineering and AI.
 
-- 🔭 **Currently building:** [OpenMate](https://github.com/mahadanisubh/Openmate) — an AI-powered business assistant.
+- 🔭 **Currently building:** [OpenMate](https://github.com/mahadanisubh/Openmate) - an AI-powered business assistant.
 - 💼 **Currently working:** Full Stack Developer Intern at SunsysTechsol.
 - 🌱 **Learning:** AI engineering, LLM integration, Retrieval-Augmented Generation (RAG), and scalable backend architecture.
 - 💻 **Interested in:** Full-stack engineering, AI-powered applications, APIs, and product development.
